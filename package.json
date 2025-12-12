@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@astrojs/node": "^9.5.1",
+    "@astrojs/ts-plugin": "^1.10.6",
     "ag-grid-community": "^35.0.0",
     "ag-grid-enterprise": "^35.0.0",
     "ag-grid-react": "^35.0.0",
